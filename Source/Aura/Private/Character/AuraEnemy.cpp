@@ -2,11 +2,16 @@
 
 
 #include "Character/AuraEnemy.h"
+//Debug
+#include "DrawDebugHelpers.h"
+#include "Kismet/KismetSystemLibrary.h"
 
 void AAuraEnemy::HighlightActor()
 {
+	
 }
 
 void AAuraEnemy::UnhighlightActor()
 {
+	
 }
